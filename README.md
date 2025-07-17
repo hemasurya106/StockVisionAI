@@ -118,10 +118,7 @@ streamlit run app.py
 - **General debugging**
   - Use the Streamlit UI's "Show backend logs" to see all print output and errors from the backend.
 
----
 
-## License
-MIT (or your chosen license)
 
 ---
 
