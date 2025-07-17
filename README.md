@@ -43,14 +43,9 @@ A multi-agent AI system for researching, analyzing, and picking the best stocks 
 Create a `.env` file in the project root with the following (replace with your actual keys):
 
 ```
-# Pushover for notifications
 PUSHOVER_USER=your_pushover_user_key
 PUSHOVER_TOKEN=your_pushover_app_token
-
-# Serper for web search
 SERPER_API_KEY=your_serper_api_key
-
-# LLM provider (example: OpenAI or Gemini)
 OPENAI_API_KEY=your_openai_api_key   # if using OpenAI
 GEMINI_API_KEY=your_gemini_api_key   # if using Gemini
 ```
