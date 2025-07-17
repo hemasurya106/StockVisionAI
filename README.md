@@ -59,11 +59,7 @@ GEMINI_API_KEY=your_gemini_api_key   # if using Gemini
 ## Usage
 
 ### **A. Command Line**
-Run the stock picker for a specific sector:
-```bash
-python -m src.stockpicker.main "Technology"
-```
-Or, if you set a default sector in the code:
+
 ```bash
 python -m src.stockpicker.main
 ```
