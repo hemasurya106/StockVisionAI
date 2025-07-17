@@ -1,6 +1,23 @@
-# AI Stock Picker Crew
+# StockVisionAI
 
-A multi-agent AI system for researching, analyzing, and picking the best stocks in a given sector, powered by [CrewAI](https://crewai.com), Retrieval-Augmented Generation (RAG) memory, and a modern Streamlit dashboard. The system can send push notifications via Pushover and leverages Serper for web search.
+The StockVisionAI is an advanced, multi-agent AI system designed to automate and enhance the process of investment research and decision-making. Built on the robust crewAI framework, this solution orchestrates a team of specialized AI agents, each with distinct financial analysis roles, to collaboratively identify, research, and recommend the best companies for investment within any sector.
+## Key Features:
+- Automated Trend Discovery: The system continuously scans the latest news to identify trending companies in a specified sector, ensuring up-to-date market awareness.
+- In-Depth Financial Analysis: Dedicated AI agents perform comprehensive research on each identified company, generating detailed analytical reports.
+- Intelligent Stock Selection: Leveraging synthesized research, the system’s stock picker agent selects the most promising investment opportunity and provides a clear, data-driven rationale.
+- User Notification: The chosen investment recommendation is delivered to the user via push notification, accompanied by a concise summary and a detailed report.
+Business Value:
+- Efficiency: Automates time-consuming research and analysis, freeing up human analysts for higher-level decision-making.
+- Consistency: Ensures a systematic, unbiased approach to company selection and investment recommendations.
+- Scalability: Can be extended to cover multiple sectors, asset classes, or custom research criteria with minimal effort.
+- Transparency: Provides clear documentation and rationale for every investment decision, supporting compliance and auditability.
+
+## Ideal Use Cases:
+Financial research teams seeking to augment their capabilities with AI-driven insights.
+Investment firms aiming to streamline their due diligence process.
+Enterprises wanting to monitor market trends and identify new business opportunities automatically.
+This project demonstrates how AI can be leveraged to transform traditional investment research, making it faster, more reliable, and scalable for modern business needs.
+
 
 ---
 
